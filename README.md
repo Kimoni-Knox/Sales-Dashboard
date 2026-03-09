@@ -14,4 +14,4 @@ Total Revenue: $163,410
 • How does revenue trend over time?
 
 ## Dashboard Preview
-![Dashboard](sales_dashboard.png)
+![Dashboard](Sales_Dashboard.png)
