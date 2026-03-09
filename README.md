@@ -9,8 +9,11 @@ Total Revenue: $163,410
 
 ## Business Questions Answered
 • Which products generate the most revenue?
+
 • Which regions perform best?
+
 • Which sales reps drive the most sales?
+
 • How does revenue trend over time?
 
 ## Dashboard Preview
